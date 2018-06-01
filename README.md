@@ -13,3 +13,5 @@ Enjoy!
 ### [Ciel Experiment](https://twitter.com/ghiliweld/status/1000260078912655360)
 
 ### [Making Cheaper Smart Contracts](https://twitter.com/ghiliweld/status/1001615180676116480)
+
+### [Proposed Upgradeability & Storage Standard for Smart Contracts](https://twitter.com/ghiliweld/status/1002556977455779841)
