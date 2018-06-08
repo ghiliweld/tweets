@@ -15,3 +15,7 @@ Enjoy!
 ### [Making Cheaper Smart Contracts](https://twitter.com/ghiliweld/status/1001615180676116480)
 
 ### [Proposed Upgradeability & Storage Standard for Smart Contracts](https://twitter.com/ghiliweld/status/1002556977455779841)
+
+### [Monetization in Mimo & Social Media Projects](https://twitter.com/ghiliweld/status/1005174834307960832)
+
+## Learning
