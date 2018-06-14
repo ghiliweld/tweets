@@ -19,3 +19,5 @@ Enjoy!
 ### [Monetization in Mimo & Social Media Projects](https://twitter.com/ghiliweld/status/1005174834307960832)
 
 ## Learning
+
+### [Learning Japanese](https://twitter.com/ghiliweld/status/1007335455879254019)
