@@ -18,6 +18,8 @@ Enjoy!
 
 ### [Monetization in Mimo & Social Media Projects](https://twitter.com/ghiliweld/status/1005174834307960832)
 
+### [Mimo & ENS Integration](https://twitter.com/ghiliweld/status/1011054510037495808)
+
 ## Learning
 
 ### [Learning Japanese](https://twitter.com/ghiliweld/status/1007335455879254019)
