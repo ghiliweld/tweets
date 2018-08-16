@@ -10,6 +10,8 @@ Enjoy!
 
 ## Dev
 
+### [Identity as a Group Chat](https://twitter.com/ghiliweld/status/1030123041962041345)
+
 ### [Ciel Experiment](https://twitter.com/ghiliweld/status/1000260078912655360)
 
 ### [Making Cheaper Smart Contracts](https://twitter.com/ghiliweld/status/1001615180676116480)
